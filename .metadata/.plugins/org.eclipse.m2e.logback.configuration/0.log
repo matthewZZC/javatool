@@ -1,0 +1,37 @@
+2018-01-31 13:41:58,308 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\workspace\base\javatool\basejava\pom.xml
+2018-01-31 13:42:07,055 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: acheng.code:basejava:0.0.1-SNAPSHOT @ D:\workspace\base\javatool\basejava\pom.xml.
+2018-01-31 13:42:08,546 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: acheng.code:basejava:0.0.1-SNAPSHOT @ D:\workspace\base\javatool\basejava\pom.xml.
+2018-01-31 13:45:39,722 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-01-31 13:45:44,539 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: acheng.code:basejava:0.0.1-SNAPSHOT @ D:\workspace\base\javatool\basejava\pom.xml.
+2018-01-31 13:45:48,642 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /basejava/src/main/java
+2018-01-31 13:45:48,713 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /basejava/src/test/java
+2018-01-31 13:45:50,679 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 10 sec
+2018-01-31 13:45:51,761 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: acheng.code:basejava:0.0.1-SNAPSHOT @ D:\workspace\base\javatool\basejava\pom.xml.
+2018-01-31 13:45:52,304 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-31 13:45:52,304 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\base\javatool\basejava\src\main\resources
+2018-01-31 13:45:52,311 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-31 13:45:52,312 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\base\javatool\basejava\src\test\resources
+2018-01-31 13:47:57,867 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-31 13:47:57,867 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\base\javatool\basejava\src\main\resources
+2018-01-31 13:47:57,871 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-31 13:47:57,871 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\base\javatool\basejava\src\test\resources
+2018-01-31 13:51:41,667 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-31 13:51:41,668 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\base\javatool\basejava\src\main\resources
+2018-01-31 13:51:41,671 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-31 13:51:41,671 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\base\javatool\basejava\src\test\resources
+2018-01-31 13:51:45,346 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-31 13:51:45,346 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\base\javatool\basejava\src\main\resources
+2018-01-31 13:51:45,353 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-31 13:51:45,354 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\base\javatool\basejava\src\test\resources
+2018-01-31 13:52:09,708 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-31 13:52:09,711 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\base\javatool\basejava\src\main\resources
+2018-01-31 13:52:09,719 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-31 13:52:09,719 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\base\javatool\basejava\src\test\resources
+2018-01-31 13:52:26,023 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-31 13:52:26,023 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\base\javatool\basejava\src\main\resources
+2018-01-31 13:52:26,026 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-31 13:52:26,027 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\base\javatool\basejava\src\test\resources
+2018-01-31 13:52:46,412 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-31 13:52:46,413 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\base\javatool\basejava\src\main\resources
+2018-01-31 13:52:46,416 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-31 13:52:46,417 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\base\javatool\basejava\src\test\resources
